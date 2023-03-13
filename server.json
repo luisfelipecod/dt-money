@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "descripition": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-02-15T13:52:14.335Z"
+    },
+    {
+      "id": 2,
+      "descripition": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-02-15T13:44:14.335Z"
+    },
+    {
+      "id": 3,
+      "descripition": "Ignite RocketSeat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-02-15T11:10:14.335Z"
+    },
+    {
+      "descripition": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-02-15T19:16:30.764Z",
+      "id": 4
+    },
+    {
+      "descripition": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-15T19:23:07.837Z",
+      "id": 5
+    },
+    {
+      "descripition": "Iorgute de morango",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-15T19:41:30.906Z",
+      "id": 6
+    },
+    {
+      "descripition": "Água",
+      "price": 55,
+      "category": "Conta",
+      "type": "outcome",
+      "createdAt": "2023-02-19T17:13:26.884Z",
+      "id": 7
+    },
+    {
+      "descripition": "luz",
+      "price": 300,
+      "category": "Conta",
+      "type": "outcome",
+      "createdAt": "2023-02-19T17:14:03.874Z",
+      "id": 8
+    },
+    {
+      "descripition": "Cabelo ",
+      "price": 5000,
+      "category": "serviço",
+      "type": "income",
+      "createdAt": "2023-02-19T17:14:28.864Z",
+      "id": 9
+    }
+  ]
+}
